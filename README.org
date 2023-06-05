@@ -1,3 +1,3 @@
-#+title: A deep understanding of deep learning (with Python intro)
+#+title: A deep understanding of deep learning
 #+author: Andrey Pudov
 #+date: <2023-06-05 Mon>
