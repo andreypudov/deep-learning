@@ -1,3 +1,5 @@
-#+title: A deep understanding of deep learning
+#+title: Deep Understanding Of Deep Learning
 #+author: Andrey Pudov
 #+date: <2023-06-05 Mon>
+
+Python code accompanying the course "A deep understanding of deep learning (with Python intro)"
