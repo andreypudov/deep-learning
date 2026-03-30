@@ -1,7 +1,7 @@
 {
+  "notebook.defaultFormatter": "ms-python.black-formatter",
+  "notebook.formatOnSave.enabled": true,
   "github.copilot.enable": {
     "*": false
   },
-  "github.copilot.chat.enable": false,
-  "github.copilot.inlineSuggest.enable": false
 }
