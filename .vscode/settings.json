@@ -1,6 +1,7 @@
 {
   "notebook.defaultFormatter": "ms-python.black-formatter",
   "notebook.formatOnSave.enabled": true,
+  "python.defaultInterpreterPath": ".venv/bin/python",
   "github.copilot.enable": {
     "*": false
   },

@@ -1,4 +1,4 @@
-* Deep Understanding Of Deep Learning
+* Deep Understanding of Deep Learning
 
 Python code accompanying the course "A deep understanding of deep learning (with Python intro)"
 
@@ -9,11 +9,12 @@ See https://www.udemy.com/course/deeplearning_x/?couponCode=202502 for more deta
 
 ** Configure your environment
 
-To run the code in this repository, you need to configure your virtual environment with the required dependencies. You can do this by running the following commands in your terminal:
+To run the code in this repository, you need to set up a virtual environment with the required dependencies. You can do this by running the following commands in your terminal:
 
 #+begin_src shell
-python3 -m venv venv
-source venv/bin/activate
+python3 -m venv .venv
+source .venv/bin/activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
+pre-commit install
 #+end_src
