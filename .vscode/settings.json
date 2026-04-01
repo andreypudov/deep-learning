@@ -5,4 +5,14 @@
   "github.copilot.enable": {
     "*": false
   },
+
+  "[jupyter]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
+  },
+
+  "[python]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
+}
 }
