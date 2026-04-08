@@ -4,12 +4,15 @@ The softmax function is a mathematical function that converts a vector of real n
 
 The softmax function is defined as follows:
 
+#+begin_src
 softmax(z_i) = exp(z_i) / sum(exp(z_j))
+#+end_src
 
 Where `z_i` is the input vector and `exp` is the exponential function.
 
-Example:
+** Example:
 
+#+begin_src
 z = {1, 2, 3}
 
 e^z = {e^1, e^2, e^3} = {2.71828, 7.38906, 20.0855}
@@ -18,3 +21,4 @@ sum(e^z) = 2.71828 + 7.38906 + 20.0855 = 30.19284
 
 softmax(z_i) = {2.71828 / 30.19284, 7.38906 / 30.19284, 20.0855 / 30.19284}
              = {0.09003, 0.24473, 0.66524}
+#+end_src
