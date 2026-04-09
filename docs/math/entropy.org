@@ -1,0 +1,17 @@
+* Entropy
+
+Entropy in information theory: everything is great and happy and, surprising things convey more information.
+
+H = -sum(p(x) * log(p(x)))
+
+Where p(x) is the probability of x.
+
+** Cross-entropy
+
+Cross-entropy is a measure of the difference between two probability distributions.
+
+H(p, q) = -sum(p(x) * log(q(x)))
+
+Where p is the true distribution and q is the predicted distribution.
+
+In deep learning, events are happen or do not happen -> p(x) is either 0 or 1.
