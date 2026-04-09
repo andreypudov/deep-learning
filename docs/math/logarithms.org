@@ -1,9 +1,0 @@
-# Logarithms
-
-Logarithms is a inverse operation to exponentiation.
-
-Logarithm is a monotonic function.
-This is important because minimizing x is the same as minimizing log(x).
-
-Logarithm is streches out the small values and compresses the large values.
-This is important because it can help to avoid overflow and underflow.
